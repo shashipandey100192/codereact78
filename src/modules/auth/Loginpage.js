@@ -29,6 +29,7 @@ function Loginpage() {
                                    
                                     <button className='btn btn-success shadow' >Login</button>
                                     <Link className='btn btn-outline-warning shadow ms-3' to="registor">Registor</Link>
+                                    <Link className='btn btn-outline-warning shadow ms-3' to="landing">landing</Link>
                                 </div>
                             </div>
                         </div>
